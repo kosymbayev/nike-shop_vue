@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "image": "air-jordan-1-retro-high-og-shoes-XrLTRM.jpg",
+            "name": "Air Jordan 1 Retro High OG",
+            "price": 180,
+            "article": "air-jordan-1-retro-high-og-shoes",
+            "available": true,
+            "category": "Jordan"
+        },
+        {
+            "image": "jordan-6-rings-mens-shoes-nSNjrf.jpg",
+            "name": "Jordan 6 Rings",
+            "price": 170,
+            "article": "jordan-6-rings-mens-shoes",
+            "available": true,
+            "category": "Jordan"
+        },
+        {
+            "image": "air-jordan-xxxvii-low-basketball-shoes-r0WTxt.jpg",
+            "name": "Air Jordan XXXVII Low",
+            "price": 195,
+            "article": "air-jordan-xxxvii-low-basketball-shoes",
+            "available": true,
+            "category": "Jordan"
+        },
+        {
+            "image": "air-jordan-1-retro-high-og-mens-shoes-fpPtM3.jpg",
+            "name": "Air Jordan 1 Retro High OG",
+            "price": 180,
+            "article": "air-jordan-1-retro-high-og-mens-shoes",
+            "available": true,
+            "category": "Jordan"
+        },
+        {
+            "image": "killshot-2-leather-mens-shoe-zrq1wk.jpg",
+            "name": "Killshot 2 Leather",
+            "price": 90,
+            "article": "killshot-2-leather-mens-shoe",
+            "available": true,
+            "category": "Lifestyle"
+        },
+        {
+            "image": "air-force-1-07-mens-shoes-jBrhbr.jpg",
+            "name": "Air Force 1 '07",
+            "price": 110,
+            "article": "air-force-1-07-mens-shoes",
+            "available": true,
+            "category": "Lifestyle Air-force"
+        },
+        {
+            "image": "air-max-1-premium-shoes-QBdDK8.jpg",
+            "name": "Air Max 1 Premium",
+            "price": 160,
+            "article": "air-max-1-premium-shoes",
+            "available": true,
+            "category": "Lifestyle Air-max"
+        },
+        {
+            "image": "dunk-high-retro-mens-shoe-dTVTCk.jpg",
+            "name": "Dunk High Retro",
+            "price": 125,
+            "article": "dunk-high-retro-mens-shoe",
+            "available": true,
+            "category": "Lifestyle"
+        },
+        {
+            "image": "air-max-pulse-mens-shoes-ShS3tL.jpg",
+            "name": "Air Max Pulse",
+            "price": 180,
+            "article": "air-max-pulse-mens-shoes",
+            "available": true,
+            "category": "Lifestyle Air-max"
+        }
+    ]
+}
